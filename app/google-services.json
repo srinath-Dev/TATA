@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167286774421",
+    "firebase_url": "https://tata-74f82.firebaseio.com",
+    "project_id": "tata-74f82",
+    "storage_bucket": "tata-74f82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167286774421:android:671152e988b3576de1d99c",
+        "android_client_info": {
+          "package_name": "com.aborteddevelopers.tata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167286774421-vi8bc60ps1abqmntbj1ns29saa9tevtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgVEFmK42034usyJdG_3fGC-dP0fIfxW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167286774421-vi8bc60ps1abqmntbj1ns29saa9tevtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
